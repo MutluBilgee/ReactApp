@@ -4,7 +4,6 @@ import com.reactApp.utilities.Driver;
 import com.testautomationguru.ocular.Ocular;
 import com.testautomationguru.ocular.comparator.OcularResult;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
