@@ -35,22 +35,15 @@ With The IDE Tool
 3) In order to run any scenario:
 Write related tag name to "tags” and click green play icon near to class name
 
-Test Scenario
-Tag Name
-EarthNet Functionality (UI Automation)
-@wip
-All Api Test
-@allApi
-Returning array of all wells
-@wellsApi
-Returning array of all logs
-@logsApi
-Returning array of all formations
-@formationsApi
-Returning array of all plots
-@plotsApi
-Returning any part of array from plots with id
-@apiWithId
+ 	//Tags
+        //EarthNet Functionality (UI Automation) - @wip
+        //All Api Test - @allApi
+        //Returning array of all wells - @wellsApi
+        //Returning array of all logs - @logsApi
+        //Returning array of all formations - @formationsApi
+        //Returning array of all plots - @plotsApi
+        //Returning any part of array from plots with id - @apiWithId
+
 
  or
  
